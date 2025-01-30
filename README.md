@@ -1,4 +1,4 @@
-# BIO TIME🐱‍👤
+# BIO TIME
 
 <!--
 **Damarko-Berry/Damarko-Berry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
